@@ -134,7 +134,7 @@ function Home() {
               Descubre tu siguiente aventura
             </h1>
             <p className="text-xl sm:text-2xl text-white z-1">
-              Explora más de 10000 juegos
+              Explora más de 500,000 juegos
             </p>
             <Link
               to="/catalogue"
