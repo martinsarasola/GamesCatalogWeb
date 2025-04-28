@@ -88,4 +88,3 @@ npm run dev
 - Menú principal accesible desde cualquier vista
 - Navegación fluida entre secciones
 - Diseño responsive para diferentes dispositivos
-```
