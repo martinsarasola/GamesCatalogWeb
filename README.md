@@ -51,18 +51,18 @@ git clone https://github.com/martinsarasola/games-catalogue-web.git
 ```
 
 2. Instalar dependencias:
-`bash
+```bash
 cd games-catalogue-web
 npm install
-`
+```
 
 3. Crear archivo `.env` en la raíz del proyecto con las siguientes variables:
-   `bash
+```bash
 VITE_RAWG_API_KEY=tu_clave_publica
 VITE_EMAILJS_PUBLIC_KEY=tu_clave_publica
 VITE_EMAILJS_SERVICE_ID=tu_service_id
 VITE_EMAILJS_TEMPLATE_ID=tu_template_id
-   `
+```
 
 5. Iniciar el servidor de desarrollo:
 ```bash
