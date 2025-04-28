@@ -58,20 +58,18 @@ npm install
 
 3. Crear archivo `.env` en la raíz del proyecto con las siguientes variables:
    `bash
+VITE_RAWG_API_KEY=tu_clave_publica
 VITE_EMAILJS_PUBLIC_KEY=tu_clave_publica
 VITE_EMAILJS_SERVICE_ID=tu_service_id
 VITE_EMAILJS_TEMPLATE_ID=tu_template_id
    `
 
-4. Iniciar el servidor de desarrollo:
+5. Iniciar el servidor de desarrollo:
 ```bash
 npm run dev
 ```
 
 5. Abrir el navegador en [http://localhost:5173](http://localhost:5173)
-
-## Capturas de Pantalla
-[Aquí podrías incluir capturas de pantalla de las principales vistas de tu aplicación]
 
 ## Flujo de Tareas
 
